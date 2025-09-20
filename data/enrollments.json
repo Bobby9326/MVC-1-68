@@ -1,0 +1,67 @@
+[
+  {
+    "student_id": "69000003",
+    "subject_id": "05501A01",
+    "grade": "A"
+  },
+  {
+    "student_id": "69000003",
+    "subject_id": "05501A02",
+    "grade": null
+  },
+  {
+    "student_id": "69000010",
+    "subject_id": "05501A01",
+    "grade": "B"
+  },
+  {
+    "student_id": "69000004",
+    "subject_id": "05501A01",
+    "grade": "A"
+  },
+  {
+    "student_id": "69000004",
+    "subject_id": "05501A02",
+    "grade": null
+  },
+  {
+    "student_id": "69000004",
+    "subject_id": "05501A03",
+    "grade": null
+  },
+  {
+    "student_id": "69000004",
+    "subject_id": "05501A04",
+    "grade": null
+  },
+  {
+    "student_id": "69000004",
+    "subject_id": "05501A05",
+    "grade": null
+  },
+  {
+    "student_id": "69000004",
+    "subject_id": "90690001",
+    "grade": null
+  },
+  {
+    "student_id": "69000004",
+    "subject_id": "90690002",
+    "grade": null
+  },
+  {
+    "student_id": "69000004",
+    "subject_id": "90690003",
+    "grade": null
+  },
+  {
+    "student_id": "69000002",
+    "subject_id": "05501A01",
+    "grade": "A"
+  },
+  {
+    "student_id": "69000002",
+    "subject_id": "05501A02",
+    "grade": null
+  }
+]

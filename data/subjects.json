@@ -1,0 +1,92 @@
+[
+  {
+    "subject_id": "05501A01",
+    "name": "คณิตพื้นฐาน I",
+    "credit": 3,
+    "teacher": "ครูสมชาย",
+    "prereq_subject_id": null,
+    "max_capacity": 30,
+    "current_count": 4
+  },
+  {
+    "subject_id": "05501A02",
+    "name": "คณิตพื้นฐาน II",
+    "credit": 3,
+    "teacher": "ครูสมหญิง",
+    "prereq_subject_id": "05501A01",
+    "max_capacity": 30,
+    "current_count": 3
+  },
+  {
+    "subject_id": "05501A03",
+    "name": "ฟิสิกส์พื้นฐาน",
+    "credit": 3,
+    "teacher": "ครูอำนวย",
+    "prereq_subject_id": null,
+    "max_capacity": 25,
+    "current_count": 1
+  },
+  {
+    "subject_id": "05501A04",
+    "name": "เคมีพื้นฐาน",
+    "credit": 3,
+    "teacher": "ครูสุนีย์",
+    "prereq_subject_id": null,
+    "max_capacity": -1,
+    "current_count": 1
+  },
+  {
+    "subject_id": "05501A05",
+    "name": "ชีววิทยาพื้นฐาน",
+    "credit": 2,
+    "teacher": "ครูปรีชา",
+    "prereq_subject_id": null,
+    "max_capacity": 20,
+    "current_count": 1
+  },
+  {
+    "subject_id": "90690001",
+    "name": "ทักษะการเรียนรู้",
+    "credit": 1,
+    "teacher": "ครูน้ำฝน",
+    "prereq_subject_id": null,
+    "max_capacity": 50,
+    "current_count": 1
+  },
+  {
+    "subject_id": "90690002",
+    "name": "ภาษาไทยเพื่อการสื่อสาร",
+    "credit": 2,
+    "teacher": "ครูบุญช่วย",
+    "prereq_subject_id": null,
+    "max_capacity": 50,
+    "current_count": 1
+  },
+  {
+    "subject_id": "90690003",
+    "name": "เศรษฐศาสตร์เบื้องต้น",
+    "credit": 2,
+    "teacher": "ครูจารุวรรณ",
+    "prereq_subject_id": null,
+    "max_capacity": 1,
+    "current_count": 1
+  },
+  {
+    "subject_id": "05501A06",
+    "name": "คณิตประยุกต์",
+    "credit": 3,
+    "teacher": "ครูธนา",
+    "prereq_subject_id": "05501A02",
+    "max_capacity": 10,
+    "current_count": 0
+  },
+  {
+    "subject_id": "05501A07",
+    "name": "ดาราศาสตร์พื้นฐาน",
+    "credit": 2,
+    "teacher": "ครูชลิต",
+    "prereq_subject_id": null,
+    "max_capacity": 15,
+    "current_count": 0
+  }
+]
